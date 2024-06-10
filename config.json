@@ -1,0 +1,7 @@
+{
+    "inbox_path" : "Vault\\0-Inbox",
+    "notebooks_path" : "Vault\\1-Notebooks",
+    "boxes_path" : "Vault\\2-Boxes",
+    "boxes_file" : "Vault\\Boxes.md",
+    "last_modified_notes_file" : "Vault\\Last Modified Notes.md"
+}
